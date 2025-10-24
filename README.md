@@ -9,8 +9,6 @@
 
   <p>I got into coding because I was the web designer for a company I founded called Koji Street. While working with a development team to bring the idea to life, I became interested in the coding aspect of things and began building small projects for fun on the side. After I left Koji Street, I decided to make a full time switch to pursue a career in web development.</p>
 
-🔭 Currently learning more about JavaScript frameworks by building my own called <a href='https://www.npmjs.com/package/kumos'>**Kumos**</a>
-
 💬 Feel free to email me at geoffjamieson@gmail.com or ask me anything **[here](https://github.com/UnionPAC/UnionPAC/issues)**
 
 ✨ When I'm not coding I like being outdoors, hiking, backpacking, rock climbing, and reading
