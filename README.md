@@ -1,6 +1,6 @@
 # Hi, I'm Geoff
 
-Frontend developer in Hamilton, Ontario. I got into coding after founding a startup, and I care most about building things that help people.
+Frontend developer in Hamilton, Ontario. I got into coding after founding a startup, and I care most about building things that help people. I'm framework-agnostic and always picking up something new, lately more of the full stack.
 
 Most of my professional work lives in private client repos. The projects here are my own, like [gtheme](https://github.com/geoffjamieson/gtheme), a theme switcher for the Ghostty terminal.
 
